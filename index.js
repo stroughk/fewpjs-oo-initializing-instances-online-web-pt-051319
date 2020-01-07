@@ -1,6 +1,6 @@
 // Write your code here
 class Breakfast {
-  constructor(food)
+  constructor(bfastfood)
 }
 
 let eggs = new Breakfast("eggs")
